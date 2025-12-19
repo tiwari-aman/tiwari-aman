@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Aman Tiwari👋
 
 <!--
 **tiwari-aman/tiwari-aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
